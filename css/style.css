@@ -326,6 +326,9 @@ ul {
   line-height: 1.71;
   color: rgba(255, 255, 255, 0.6);
 }
+.adress-nav {
+  margin-top: 20px;
+}
 .adress-nav p {
   font-style: normal;
   font-weight: 400;
@@ -338,4 +341,8 @@ ul {
   background-color: #2f303a;
   padding-top: 60px;
   padding-bottom: 60px;
+}
+.footer-item {
+  margin-top: 9px;
+  margin-bottom: 9px;
 }
